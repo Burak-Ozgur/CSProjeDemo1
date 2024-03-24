@@ -1,0 +1,22 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CSProjeDemo1.Enums
+{
+    public enum ScientificField
+    {
+        Physics,
+        Chemistry,
+        Biology,
+        EarthSciences,
+        Astronomy,
+        Economics,
+        PoliticalScience,
+        Sociology,
+        Psychology,
+        Anthropology
+    }
+}
